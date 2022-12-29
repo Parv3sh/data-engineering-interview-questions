@@ -4,6 +4,4 @@ plugins:
 relative_links:
   enabled: true
   collections: true
-include:
-  - README.md
-  - content/airflow.md
+include: ['README.md', 'content']
